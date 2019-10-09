@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "wins": 0,
+        "favoriteCharacterName": "Captain Falcon",
+        "characterImage": "https://www.smashbros.com/images/og/captain_falcon.jpg",
+        "playerName": "Sean",
+        "trashTalkPercentage": 9000
+    },
+    {
+        "id": 2,
+        "wins": 0,
+        "favoriteCharacterName": "The Villager",
+        "characterImage": "https://www.smashbros.com/wiiu-3ds/us/characters/villager.html",
+        "playerName": "Gina",
+        "trashTalkPercentage": 50
+    }
+]
